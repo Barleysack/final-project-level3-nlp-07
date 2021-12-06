@@ -1,0 +1,12 @@
+/.cache
+**/.*
+**/__pycache__
+*.wav
+*.flac
+*.zip
+*.pyc
+**/output
+*.ts
+*.pt
+*.jpg
+!.gitignore
